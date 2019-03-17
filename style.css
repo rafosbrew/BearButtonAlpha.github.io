@@ -1,0 +1,55 @@
+body{
+    background-color: darkolivegreen;
+}
+
+.button{
+    display: block;
+    height: 100px;
+    width: 300px;
+    background: hotpink;
+    text-align: center;
+    font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    border-radius: 50px;
+    color: black;
+    float: right;
+}
+
+.button2{
+    display: block;
+    height:90px;
+    width:100px;
+    background: pink;
+    text-align: center;
+    font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica,
+    Geneva, sans-serrif;
+    border-radius: 30px;
+    color: black;
+    float: left;
+}
+
+a.button{
+    text-decoration: none;
+}
+
+a.button2{
+    text-decoration: inherit
+}
+
+p{
+    font-size: 50px;
+    
+}
+
+img{
+    width: 20%;
+    border-radius: 100%;
+}
+
+img:hover{
+    box-shadow: 1px 1px 2px red, 0 0 25px red, 0 0 5px darkblue;
+}
+
+.button3{
+  width=30px;  
+}
+
