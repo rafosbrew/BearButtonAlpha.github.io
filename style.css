@@ -1,12 +1,13 @@
 body{
-    background-color:brown;
+    background-color: saddlebrown;
+
 }
 
 .button{
     display: block;
     height: 100px;
     width: 300px;
-    background: tan;
+    background: green;
     text-align: center;
     font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
     border-radius: 50px;
@@ -18,7 +19,7 @@ body{
     display: block;
     height:90px;
     width:100px;
-    background: pink;
+    background: yellow;
     text-align: center;
     font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica,
     Geneva, sans-serrif;
