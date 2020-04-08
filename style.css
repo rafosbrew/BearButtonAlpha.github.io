@@ -1,12 +1,12 @@
 body{
-    background-color: darkolivegreen;
+    background-color: brown;
 }
 
 .button{
     display: block;
     height: 100px;
     width: 300px;
-    background: #FF69B4;
+    background: tan;
     text-align: center;
     font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
     border-radius: 50px;
