@@ -1,6 +1,5 @@
 body{
     background-color: saddlebrown;
-
 }
 
 .button{
@@ -18,7 +17,7 @@ body{
 .button2{
     display: block;
     height:90px;
-    width:100px;
+    widows: 115px;
     background: yellow;
     text-align: center;
     font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica,
@@ -47,7 +46,7 @@ p{
 
 img{
     width: 20%;
-    border-radius: 100%;
+    border-radius: 
 }
 
 img:hover{
